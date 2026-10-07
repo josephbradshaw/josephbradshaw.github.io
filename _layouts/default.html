@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <!-- makes the page scale properly on phones -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Joseph Bradshaw</title>   <!-- text shown on the browser tab -->
+  <style>
+    body {
+      background: #f2f2f2;         /* light grey; lower the numbers for darker */
+      font-family: system-ui, sans-serif;  /* clean modern font */
+      line-height: 1.6;            /* more space between lines */
+      color: #222;                 /* near-black text, softer than pure black */
+      margin: 0;
+    }
+    main {
+      max-width: 700px;            /* stops lines getting too wide to read */
+      margin: 40px auto;           /* 'auto' centres the column on the page */
+      padding: 0 16px;             /* side gap on small screens */
+    }
+    h1 { text-align: center; }     /* centres only the main heading */
+  </style>
+</head>
+<body>
+  <main>
+    {{ content }}                  <!-- your index.md content is inserted here -->
+  </main>
+</body>
+</html>
