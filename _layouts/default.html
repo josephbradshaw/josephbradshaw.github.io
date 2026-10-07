@@ -5,23 +5,49 @@
   <!-- makes the page scale properly on phones -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Joseph Bradshaw</title>   <!-- text shown on the browser tab -->
+
+  <!-- font: loads Inter from Google Fonts, normal (400) and bold (700) weights -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
   <style>
+    :root {
+      --bg: #c4c4c4;     /* medium grey page background */
+      --band: #2b4c7e;   /* header band: darker so it stands out; change freely */
+      --card: #ffffff;   /* white cards */
+    }
     body {
-      background: #f2f2f2;         /* light grey; lower the numbers for darker */
-      font-family: system-ui, sans-serif;  /* clean modern font */
+      background: var(--bg);
+      font-family: 'Inter', sans-serif;  /* font: falls back to plain sans-serif if Inter fails */
       line-height: 1.6;            /* more space between lines */
       color: #222;                 /* near-black text, softer than pure black */
       margin: 0;
     }
+    .band {
+      background: var(--band);
+      color: #fff;                 /* white text on the darker band */
+      text-align: center;
+      padding: 24px 16px;          /* space above/below and at the sides */
+    }
+    .band h1 { margin: 0; }        /* removes the heading's default gap */
     main {
       max-width: 700px;            /* stops lines getting too wide to read */
-      margin: 40px auto;           /* 'auto' centres the column on the page */
+      margin: 32px auto;           /* 'auto' centres the column on the page */
       padding: 0 16px;             /* side gap on small screens */
     }
-    h1 { text-align: center; }     /* centres only the main heading */
+    .card {
+      background: var(--card);
+      border-radius: 6px;          /* small rounded corners */
+      padding: 16px 20px;          /* space inside the box */
+      margin-bottom: 16px;         /* gap between cards */
+      box-shadow: 0 1px 3px rgba(0,0,0,0.15);  /* faint shadow to lift the card */
+    }
+    .card h3 { margin-top: 0; }    /* stops a gap above each card's title */
   </style>
 </head>
 <body>
+  <header class="band">
+    <h1>Joseph Bradshaw</h1>       <!-- your name now lives here, not in index.md -->
+  </header>
   <main>
     {{ content }}                  <!-- your index.md content is inserted here -->
   </main>
