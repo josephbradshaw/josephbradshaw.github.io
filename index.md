@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Joseph Bradshaw
 
 Designing, prototyping and calibrating a small scale subsonic wind tunnel.
