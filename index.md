@@ -24,6 +24,8 @@ Designing, prototyping and calibrating a small scale subsonic wind tunnel.
 
 Designing and constructing a chassis for a small electric vehicle powered by a 12V DC battery.
 
+- [File](files/ev-chassis.pdf)
+
 </div>
 
 <div class="card" markdown="1">
@@ -31,6 +33,8 @@ Designing and constructing a chassis for a small electric vehicle powered by a 1
 ### Wind turbine for rural communities
 
 Designing and manufacturing a steel wind turbine designed for use by residents in rural areas in the Philippines.
+
+- [File](files/wind-turbine.pdf)
 
 </div>
 
@@ -40,6 +44,8 @@ Designing and manufacturing a steel wind turbine designed for use by residents i
 
 Developing an easy-to-use pressure sensing insole for diabetic patients wishing to monitor their condition more discreetly, with a companion mobile app for viewing and tracking pressure readings.
 
+- [File](files/pressure-insole.pdf)
+
 </div>
 
 <div class="card" markdown="1">
@@ -47,6 +53,8 @@ Developing an easy-to-use pressure sensing insole for diabetic patients wishing 
 ### Battery system remanufacture
 
 Remanufacturing a battery system to reduce weight and improve assembly/disassembly efficiency for industrial applications.
+
+- [File](files/battery-remanufacture.pdf)
 
 </div>
 
@@ -58,6 +66,8 @@ Remanufacturing a battery system to reduce weight and improve assembly/disassemb
 
 Academic report on vibration measurement technologies.
 
+- [File](files/vibration-report.pdf)
+
 </div>
 
 <div class="card" markdown="1">
@@ -66,6 +76,8 @@ Academic report on vibration measurement technologies.
 
 Lab report investigating the performance of a vapour compression refrigerator with varying condenser pressures and temperatures.
 
+- [File](files/refrigerator-report.pdf)
+
 </div>
 
 <div class="card" markdown="1">
@@ -73,5 +85,7 @@ Lab report investigating the performance of a vapour compression refrigerator wi
 ### Water pump materials and processes
 
 Materials and processes analysis on 6 water pumps and their components.
+
+- [File](files/water-pumps.pdf)
 
 </div>
