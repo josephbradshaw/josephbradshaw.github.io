@@ -44,7 +44,7 @@ Designing and manufacturing a steel wind turbine designed for use by residents i
 
 Developing an easy-to-use pressure sensing insole for diabetic patients wishing to monitor their condition more discreetly, with a companion mobile app for viewing and tracking pressure readings.
 
-- [File](files/pressure-insole.pdf)
+- [Final product presentation](files/Final presentation.pdf)
 
 </div>
 
