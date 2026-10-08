@@ -44,7 +44,7 @@ Designing and manufacturing a steel wind turbine designed for use by residents i
 
 Developing an easy-to-use pressure sensing insole for diabetic patients wishing to monitor their condition more discreetly, with a companion mobile app for viewing and tracking pressure readings.
 
-- [Final product presentation](files/Final presentation.pdf)
+- [Final product presentation](Final presentation.pdf)
 
 </div>
 
@@ -54,8 +54,8 @@ Developing an easy-to-use pressure sensing insole for diabetic patients wishing 
 
 Remanufacturing a battery system to reduce weight and improve assembly/disassembly efficiency for industrial applications.
 
-- [Redesigned battery system poster](files/RB System Poster.pdf)
-- [CAD Drawings and parts list](files/CAD Drawings.pdf)
+- [Redesigned battery system poster](RB System Poster.pdf)
+- [CAD Drawings and parts list](CAD Drawings.pdf)
 
 </div>
 
@@ -67,7 +67,7 @@ Remanufacturing a battery system to reduce weight and improve assembly/disassemb
 
 Academic report on vibration measurement technologies.
 
-- [File](files/TP2 Dynamic Report.pdf)
+- [File](TP2 Dynamic Report.pdf)
 
 </div>
 
@@ -77,7 +77,7 @@ Academic report on vibration measurement technologies.
 
 Lab report investigating the performance of a vapour compression refrigerator with varying condenser pressures and temperatures.
 
-- [File](files/Lab Report Template.pdf)
+- [File](Lab Report Template.pdf)
 
 </div>
 
