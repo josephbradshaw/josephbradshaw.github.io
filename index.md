@@ -54,7 +54,8 @@ Developing an easy-to-use pressure sensing insole for diabetic patients wishing 
 
 Remanufacturing a battery system to reduce weight and improve assembly/disassembly efficiency for industrial applications.
 
-- [File](files/battery-remanufacture.pdf)
+- [Redesigned battery system poster](files/RB System Poster.pdf)
+- [CAD Drawings and parts list](files/CAD Drawings.pdf)
 
 </div>
 
