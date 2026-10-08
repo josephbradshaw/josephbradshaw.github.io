@@ -12,7 +12,7 @@
   <style>
     :root {
       --bg: #c4c4c4;     /* medium grey page background */
-      --band: #1b5745;   /* header band: darker so it stands out; change freely */
+      --band: #1b5745;   /* dark teal: used for the header band AND the links */
       --card: #ffffff;   /* white cards */
     }
     body {
@@ -24,7 +24,7 @@
     }
     .band {
       background: var(--band);
-      color: #fff;                 /* white text on the darker band */
+      color: #fff;                 /* white text on the band */
       text-align: center;
       padding: 24px 16px;          /* space above/below and at the sides */
     }
@@ -44,14 +44,15 @@
     .card h3 { margin-top: 0; }    /* stops a gap above each card's title */
     h1, h2, h3 {
       text-decoration: underline;  /* underlines your name, section and project headings */
-       a, a:visited {
-      color: var(--band);   /* links use the header colour; a:visited stops clicked links turning purple */
+    }
+    a, a:visited {
+      color: var(--band);          /* links match the header; a:visited stops clicked links turning purple */
     }
   </style>
 </head>
 <body>
   <header class="band">
-    <h1>Joseph Bradshaw</h1>       <!-- your name now lives here, not in index.md -->
+    <h1>Joseph Bradshaw</h1>       <!-- your name lives here, not in index.md -->
   </header>
   <main>
     {{ content }}                  <!-- your index.md content is inserted here -->
