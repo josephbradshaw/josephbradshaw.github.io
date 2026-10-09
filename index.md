@@ -24,7 +24,7 @@ Designing, prototyping and calibrating a small scale subsonic wind tunnel.
 
 Designing and constructing a chassis for a small electric vehicle powered by a 12V DC battery.
 
-- [File](files/ev-chassis.pdf)
+- [Finished vehicle](Finished vehicle.pdf)
 
 </div>
 
