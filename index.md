@@ -35,7 +35,8 @@ Designing and constructing a chassis for a small electric vehicle powered by a 1
 
 Designing and manufacturing a steel wind turbine designed for use by residents in rural areas in the Philippines.
 
-- [File](files/wind-turbine.pdf)
+- [Finished wind turbine](Finished turbine.jpg)
+- [Turbine stand without blades](Turbine stand.jpg)
 
 </div>
 
