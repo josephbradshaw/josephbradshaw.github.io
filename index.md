@@ -13,7 +13,7 @@ Currently designing, prototyping and calibrating a small scale subsonic wind tun
 Designing, prototyping and calibrating a small scale subsonic wind tunnel.
 
 - Logbook
-  - [Week 1](logbook/week01.pdf)
+  - [Week 1](Week 1 Logbook.pdf)
   - [Week 2](logbook/week02.pdf)
 
 </div>
