@@ -67,7 +67,7 @@ Remanufacturing a battery system to reduce weight and improve assembly/disassemb
 
 Academic report on vibration measurement technologies.
 
-- [Report](TP2 Dynamic Report.pdf)
+- [Report](TP2 Dynamics Coursework.pdf)
 
 </div>
 
@@ -87,6 +87,6 @@ Lab report investigating the performance of a vapour compression refrigerator wi
 
 Materials and processes analysis on 6 water pumps and their components.
 
-- [Report](files/Water Pump Project.pdf)
+- [Report](Water Pump Project.pdf)
 
 </div>
