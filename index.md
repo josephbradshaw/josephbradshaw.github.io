@@ -58,6 +58,7 @@ Remanufacturing a battery system to reduce weight and improve assembly/disassemb
 
 - [Redesigned battery system poster](RB System Poster.pdf)
 - [CAD Drawings and parts list](CAD Drawings.pdf)
+- [Group DFMA Report](Group+6.pdf)
 
 </div>
 
