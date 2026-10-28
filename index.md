@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Currently designing, prototyping and calibrating a small scale subsonic wind tunnel. For details of this and other projects, see below, and for CV click [here](Joseph Bradshaw CV.pdf).
+Currently designing, prototyping and calibrating a small scale subsonic wind tunnel. For details of this and other projects, see below. For CV click [here](Joseph Bradshaw CV.pdf), and click [here](https://www.linkedin.com/in/joe-bradshaw-355895383/) for LinkedIn.
 
 ## Projects
 
